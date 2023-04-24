@@ -3528,7 +3528,7 @@ footer a:visited {
 }
 
 .ss-go-top::after {
-  content: "back to top";
+  content: "Haut de page";
   display: block;
   float: left;
   width: 120px;
